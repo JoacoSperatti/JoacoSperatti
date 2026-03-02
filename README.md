@@ -1,5 +1,5 @@
 # JoacoSperatti
-## 🚀 Systems Engineering Student @ UTN | Frontend Developer
+## Systems Engineering Student at UTN | Frontend Developer
 
 ---
 
