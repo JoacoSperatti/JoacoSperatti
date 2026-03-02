@@ -1,7 +1,7 @@
 # JoacoSperatti
 ## 🚀 Systems Engineering Student @ UTN | Frontend Developer
 
----gi
+---
 
 * **Academic Background:**
     * **Information Systems Engineering** – UTN (National Technological University).
